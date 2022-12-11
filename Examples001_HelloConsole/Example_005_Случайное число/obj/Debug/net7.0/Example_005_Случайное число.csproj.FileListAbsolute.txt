@@ -1,0 +1,15 @@
+C:\Таня_учеба\Тема 3_язык С#_си шарп\Examples1\Examples001_HelloConsole\Example_005_Случайное число\bin\Debug\net7.0\Example_005_Случайное число.exe
+C:\Таня_учеба\Тема 3_язык С#_си шарп\Examples1\Examples001_HelloConsole\Example_005_Случайное число\bin\Debug\net7.0\Example_005_Случайное число.deps.json
+C:\Таня_учеба\Тема 3_язык С#_си шарп\Examples1\Examples001_HelloConsole\Example_005_Случайное число\bin\Debug\net7.0\Example_005_Случайное число.runtimeconfig.json
+C:\Таня_учеба\Тема 3_язык С#_си шарп\Examples1\Examples001_HelloConsole\Example_005_Случайное число\bin\Debug\net7.0\Example_005_Случайное число.dll
+C:\Таня_учеба\Тема 3_язык С#_си шарп\Examples1\Examples001_HelloConsole\Example_005_Случайное число\bin\Debug\net7.0\Example_005_Случайное число.pdb
+C:\Таня_учеба\Тема 3_язык С#_си шарп\Examples1\Examples001_HelloConsole\Example_005_Случайное число\obj\Debug\net7.0\Example_005_Случайное число.csproj.AssemblyReference.cache
+C:\Таня_учеба\Тема 3_язык С#_си шарп\Examples1\Examples001_HelloConsole\Example_005_Случайное число\obj\Debug\net7.0\Example_005_Случайное число.GeneratedMSBuildEditorConfig.editorconfig
+C:\Таня_учеба\Тема 3_язык С#_си шарп\Examples1\Examples001_HelloConsole\Example_005_Случайное число\obj\Debug\net7.0\Example_005_Случайное число.AssemblyInfoInputs.cache
+C:\Таня_учеба\Тема 3_язык С#_си шарп\Examples1\Examples001_HelloConsole\Example_005_Случайное число\obj\Debug\net7.0\Example_005_Случайное число.AssemblyInfo.cs
+C:\Таня_учеба\Тема 3_язык С#_си шарп\Examples1\Examples001_HelloConsole\Example_005_Случайное число\obj\Debug\net7.0\Example_005_Случайное число.csproj.CoreCompileInputs.cache
+C:\Таня_учеба\Тема 3_язык С#_си шарп\Examples1\Examples001_HelloConsole\Example_005_Случайное число\obj\Debug\net7.0\Example_005_Случайное число.dll
+C:\Таня_учеба\Тема 3_язык С#_си шарп\Examples1\Examples001_HelloConsole\Example_005_Случайное число\obj\Debug\net7.0\refint\Example_005_Случайное число.dll
+C:\Таня_учеба\Тема 3_язык С#_си шарп\Examples1\Examples001_HelloConsole\Example_005_Случайное число\obj\Debug\net7.0\Example_005_Случайное число.pdb
+C:\Таня_учеба\Тема 3_язык С#_си шарп\Examples1\Examples001_HelloConsole\Example_005_Случайное число\obj\Debug\net7.0\Example_005_Случайное число.genruntimeconfig.cache
+C:\Таня_учеба\Тема 3_язык С#_си шарп\Examples1\Examples001_HelloConsole\Example_005_Случайное число\obj\Debug\net7.0\ref\Example_005_Случайное число.dll
